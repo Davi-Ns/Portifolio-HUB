@@ -1,4 +1,4 @@
-# Portfólio Nelson Ribeiro Felix
+# Portifólio Nelson Ribeiro Felix
 
 Olá, meu nome é Nelson e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e adoro criar soluções inovadoras. Neste repositório, você encontrará alguns dos meus projetos pessoais.
 
