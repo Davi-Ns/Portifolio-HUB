@@ -5,7 +5,7 @@ Olá, meu nome é Nelson e estou cursando Análise e Desenvolvimento de Sistemas
 ## Projetos
 
 * **[Portifólio]:** [Apresentação profissional sobre o meu perfil]
-https://github.com/NelsonRibeiroFelix/Portifolio-HUB.git )
+https://github.com/NelsonRibeiroFelix/Portifolio-HUB.git 
 
 ## Habilidades
 
