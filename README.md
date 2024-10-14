@@ -2,13 +2,7 @@
 <h3 align="center">Olá, meu nome é Nelson e estou cursando Análise e Desenvolvimento de Sistemas. Neste repositório, você encontrará alguns dos meus projetos pessoais.</h3>
 
 - 🌱 Atualmente estou estudando Análise e desenvolvimento de sistemas **C, Python, SQL.**
-
-- 💬 Me questiono sobre **C, Python, SQL, Lógica de programação, Excel**
-
 - 📫 Você pode me encontrar no E-mail **nelson.ribeiro.felix@gmail.com**
-
-- 📄 Minhas experiências [www.linkedin.com/in/nelson-ribeiro-0683b9323]
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in //0683b9323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-0683b9323" height=" 30" width="40" /></a>
